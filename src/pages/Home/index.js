@@ -9,9 +9,6 @@ import Header from "../../components/Header";
 
 function Home() {
 
-  // // Hook = Gancho -> useState
-  // const [ nome, setNome ] = useState("Exemplo"); // Poderia deixar um valor inicial, colocando dentro de useState( "Exemplo" );
-
   return (
     <div>
       <Header />
