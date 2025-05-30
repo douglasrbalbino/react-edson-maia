@@ -1,0 +1,5 @@
+.slick-prev:before, /* Precisa ter o before */
+.slick-next:before { /* Precisa ter o before */
+    /* color: red; */
+    font-size: 2rem;
+}
